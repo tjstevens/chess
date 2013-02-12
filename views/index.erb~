@@ -61,7 +61,7 @@
 	  border: 0px;
   }
   </style>
-  <iframe width="1000px"
+  <iframe 
 	  id="chessboard" 
 	  src="http://chess.ecomware.com/new
 		  ?fen=r4r1k/ppn1NBpp/4b3/4P3/3p1R2/1P6/P1P3PP/R5K1
